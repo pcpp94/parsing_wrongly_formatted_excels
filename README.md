@@ -1,2 +1,2 @@
-**Automated Data Cleaner for Specific Excel Folder**  
-A targeted tool for managing a specific folder containing numerous Excel files with messy, inconsistent data. This repository automates the retrieval of new files, applies custom cleaning functions, and standardizes data formats, providing an efficient solution for maintaining organized, high-quality data in a constantly updated folder.
+**Automated Data Cleaner for Mixed-Format Excel Folder**  
+A tailored solution for a specific folder containing Excel files with varied and incorrect extensions (.xml, .xlsx, .xls). This repository automatically identifies and processes files with inconsistent formats, applies smart cleaning functions, and standardizes data structures, ensuring reliable data extraction and cleanup from a constantly updated folder with mixed file types.
